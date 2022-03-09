@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "John"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1646711957123,
+      "userName": "John",
+      "password": "John1"
+    },
+    {
+      "id": 1646712097883,
+      "userName": "jon",
+      "password": "jon1"
+    },
+    {
+      "id": 1646712118319,
+      "userName": "samir",
+      "password": "samir1"
+    },
+    {
+      "id": 1646719635457,
+      "userName": "Akmal",
+      "password": "Akmal"
+    },
+    {
+      "id": 1646719731713,
+      "userName": "Muhammad",
+      "password": "Muhammad1"
+    },
+    {
+      "id": 1646719812342,
+      "userName": "Sardor",
+      "password": "Sardor"
+    },
+    {
+      "id": 1646719969840,
+      "userName": "timur",
+      "password": "timur1"
+    },
+    {
+      "id": 1646720032215,
+      "userName": "brown",
+      "password": "brown"
+    },
+    {
+      "id": 1646720120159,
+      "userName": "lol",
+      "password": "lol1"
+    },
+    {
+      "id": 1646720283323,
+      "userName": "sing",
+      "password": "sing1"
+    },
+    {
+      "id": 1646720448473,
+      "userName": "dima",
+      "password": "dima1"
+    },
+    {
+      "id": 1646721205558,
+      "userName": "dell",
+      "password": "dell1"
+    },
+    {
+      "id": 1646721243888,
+      "userName": "dell",
+      "password": "dell1"
+    }
+  ]
+}
